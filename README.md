@@ -32,7 +32,7 @@ This project performs automated browser-based monitoring of the IAMOps website, 
 1. Create a `.env` file in the root directory
 2. Add your base URL:
    ```
-   BASE_URL=https://your-domain.com
+   BASE_URL=https://iamops.io
    ```
 
 ## Usage
